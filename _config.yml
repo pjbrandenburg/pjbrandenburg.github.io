@@ -12,11 +12,12 @@ keep_files:
   - ".git"
   - ".gitignore"
 
+timezone: America/New_York
 
 # Site settings
-title: Airspace
+title: PatrickSite
 subtitle: "A free HTML5 agency template"
-url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+url: "http://pjbrandenburg.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
 cover: "/assets/cover.png"
